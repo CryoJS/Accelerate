@@ -1,0 +1,8 @@
+Link: https://colorhunt.co/palette/f6f1f1afd3e219a7ce146c94
+
+White:     F5F7F8     rgb(245, 247, 248)
+Black:     151515     rgb(21, 21, 21)
+
+Light:     AFD3E2     rgb(175, 211, 226)
+Medium:    19A7CE     rgb(25, 167, 206)
+Dark:      146C94     rgb(20, 108, 148)
