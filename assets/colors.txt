@@ -1,3 +1,5 @@
+Github or Discord Formatted UI.
+
 Link: https://colorhunt.co/palette/f6f1f1afd3e219a7ce146c94
 
 White:     F5F7F8     rgb(245, 247, 248)
